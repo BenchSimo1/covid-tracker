@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### To-do List
+
+[X] Create App component
+[X] Create Cards component
+[X] Set the fetch api
+[X] pass the data as a props to cards components
+[X] import material-ui in the cards.jsx
