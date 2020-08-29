@@ -74,3 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 [X] Set the fetch api
 [X] pass the data as a props to cards components
 [X] import material-ui in the cards.jsx
+[X] finish th cards component implementation
+[] fetchDatadaily & visualize the data in a chart
